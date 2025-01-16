@@ -1687,7 +1687,7 @@ hero-btn {
 
 /* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .pt-100 {
-  padding-top: 100px;
+  padding-top: 150px;
 }
 
 /* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
@@ -2761,14 +2761,14 @@ hero-btn {
 /* line 797, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .section-padding30 {
   /* padding-top: 195px; */
-  padding-bottom: 170px;
+  padding-bottom: 100px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   /* line 797, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
   .section-padding30 {
-    padding-top: 195px;
-    padding-bottom: 170px;
+    padding-top: 105px;
+    padding-bottom: 100px;
   }
 }
 
@@ -3569,7 +3569,7 @@ hero-btn {
 /* line 37, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
 .slider-area {
   margin-top: -1px;
-  background-image: url(../img/hero/h1_hero.jpg);
+  background-image: url('https://www.it-serve.com/images/services/consultancy-banner.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3625,7 +3625,7 @@ hero-btn {
   font-size: 35px;
   font-weight: 800;
   margin-bottom: 14px;
-  color: #000000;
+  color:   #002956;
   font-family: "Sarabun", sans-serif;
   line-height: 1.2;
   margin-bottom: 33px;
@@ -4095,7 +4095,7 @@ hero-btn {
 .support-company-area .right-caption .support-caption p.pera-top {
   font-size: 20px;
   font-weight: 500;
-  color: #003b7b;
+  color: #868686;
   font-family: "Roboto", sans-serif;
 }
 
@@ -4449,7 +4449,7 @@ hero-btn {
 
 /* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
 .testimonial-area {
-  background: #121212;
+  background: #114884;
   position: relative;
 }
 
@@ -4631,12 +4631,12 @@ hero-btn {
 
 /* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 .footer-area {
-  background: #11141b;
+  background: #003b7b;
 }
 
 /* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 .footer-area .footer-top {
-  border-bottom: 1px solid #233148;
+  border-bottom: 1px solid #e7e7e7;
 }
 
 /* line 6, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
@@ -4681,7 +4681,7 @@ hero-btn {
 
 /* line 29, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 .footer-area .footer-top .single-footer-caption .footer-number h4 {
-  color: #ff0000;
+  color: #ffffff;
   font-size: 30px;
   font-weight: 500;
   text-transform: capitalize;
@@ -4771,7 +4771,7 @@ hero-btn {
 
 /* line 102, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 .footer-area .footer-top .single-footer-caption .info.error {
-  color: #ff0000;
+  color: #ffffff;
 }
 
 /* line 105, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
@@ -4811,12 +4811,12 @@ hero-btn {
 
 /* line 133, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 .footer-area .footer-bottom .footer-copy-right p i {
-  color: #ff0000;
+  color: #ffffff;
 }
 
 /* line 136, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 .footer-area .footer-bottom .footer-copy-right p a {
-  color: #ff0000;
+  color: #ffffff;
 }
 
 /* line 150, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
@@ -6664,6 +6664,7 @@ hero-btn {
 /* line 133, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_contact.scss */
 .contact-section {
   padding: 0px 0 100px;
+  margin-top: 100px;
 }
 
 @media (max-width: 991px) {
